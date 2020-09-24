@@ -1,0 +1,19 @@
+{
+    "bot_token": "BOT_TOKEN",
+    "prefixes": [".", "!"],
+    "owners": [
+        "OWNER_ID_1",
+        "OWNER_ID_2"
+    ],
+    "mongo_uri": "MONGODB_CONNECTION_URI",
+    "game": {
+        "status": "dnd",
+        "type": "WATCHING",
+        "name": [
+            ".help",
+            "New Update"
+        ],
+        "url": "STREAM_URL",
+        "interval": 15
+    }
+}

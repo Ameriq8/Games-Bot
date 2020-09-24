@@ -1,0 +1,11 @@
+ping_mylatency: My Latency
+ping_apilatency: API Latency
+leaderboard_title: Coins Leaderboard
+language_updated: Your language has been successfully updated
+prefix_updated: "server prefix has been Checked to `%{Prefix}`"
+help_embed_title: For more information about a command, use `help <command_name>` command
+help_permissions: Required Permissions
+help_name: Name
+help_aliases: Aliases
+help_not_found: "Command with name `%{command}` not found"
+not_found: Not Found
